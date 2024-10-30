@@ -5,6 +5,7 @@
 }
 
 .text-block {
+  font-size: 4rem;
   position: absolute;
   color: white;
   top: 50%;
